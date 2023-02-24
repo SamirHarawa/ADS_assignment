@@ -7,7 +7,7 @@
 #                       Uses suffix array.                                                                                              #
 #                       Uses  "timeit" module to capture algorithm execution.                                                           #                     
 #       Module:         Algorithms and Data Structures in Bioinformatics - ADS 612                                                      #
-#       Submitted By:   Vita Nyasulu, Samir Adrian Harawa & Limbani Thengo                                                                     #
+#       Submitted By:   Vita Nyasulu(202240190002), Samir Adrian Harawa(202240190001) & Limbani Thengo(202240190021)                                                                    #
 #       Date:           24 February 2023                                                                                                #
 #                                                                                                                                       #
 #***************************************************************************************************************************************#
