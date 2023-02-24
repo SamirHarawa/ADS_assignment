@@ -19,6 +19,10 @@ from reportlab.lib import colors
 from reportlab.lib.units import cm
 from Bio.Graphics import GenomeDiagram
 from Bio.SeqFeature import SeqFeature, FeatureLocation
+import ssl
+
+# Setting up the context for secure connection
+ssl._create_default_https_context = ssl._create_unverified_context
 
 # Read the SARS-CoV-2 genome file
 record = SeqIO.read("wuhan.fasta", "fasta")
