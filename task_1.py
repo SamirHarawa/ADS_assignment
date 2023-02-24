@@ -2,12 +2,12 @@
 
 #***************************************************************************************************************************************#
 #                                                                                                                                       #
-#       Script name:    task_1.py                                                                                                       #
+#       Script name:    Task_1.py                                                                                                       #
 #       Description:    Counts k-mers for a given string and length of k-mer.                                                           #
 #                       Uses suffix array.                                                                                              #
 #                       Uses  "timeit" module to capture algorithm execution.                                                           #                     
 #       Module:         Algorithms and Data Structures in Bioinformatics - ADS 612                                                      #
-#       Submitted By:   Vita Nyasulu, Samir Adrian & Limbani Thengo                                                                     #
+#       Submitted By:   Vita Nyasulu, Samir Adrian Harawa & Limbani Thengo                                                                     #
 #       Date:           24 February 2023                                                                                                #
 #                                                                                                                                       #
 #***************************************************************************************************************************************#
